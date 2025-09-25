@@ -5,7 +5,7 @@ With hyperparameter tuning, the model achieves **99.3%+ accuracy** on the test s
 
 ## Features
 - LeNet-inspired CNN architecture
-- Hyperparameter tuning for optimal performance
+- Tuning for optimal performance
 - MNIST handwritten digit classification
 
 ## Usage
